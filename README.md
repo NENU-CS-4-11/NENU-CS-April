@@ -1,19 +1,5 @@
 
 
-# NENU-CS-April
-
-东北师范大学信息科学与技术学院对抗组织调查证据
-
-这位老师是殷老师的朋友？
-
-![alt text](image-1.png)
-
-这是武新皓？
-
-这位老师不太认识
-
-![alt text](image-5.png)
-
 # 首先是指控
 
 ## 指控1，东北师范大学信息科学与技术学院恶意诬告他人有精神疾病，导致谭同学去长春市第六医院就诊
@@ -54,4 +40,16 @@ https://huggingface.co/datasets/tannal/NENU-CS-April
 若东北师范大学信息科学与技术学院仍然对抗组织调查，将会面临更多铁证。
 
 
+# NENU-CS-April
 
+东北师范大学信息科学与技术学院对抗组织调查证据
+
+这位老师是殷老师的朋友？
+
+![alt text](image-1.png)
+
+这是武新皓？
+
+这位老师不太认识
+
+![alt text](image-5.png)
