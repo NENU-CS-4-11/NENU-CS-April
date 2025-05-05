@@ -4,5 +4,6 @@
 
 东北师范大学信息科学与技术学院对抗组织调查证据
 
-![alt text](image.png)
+这位老师是殷老师的朋友？
 
+![alt text](image-1.png)
