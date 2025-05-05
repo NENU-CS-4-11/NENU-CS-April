@@ -39,6 +39,8 @@ https://huggingface.co/datasets/tannal/NENU-CS-April
 
 杨熊鑫等人，证据确凿
 
+![alt text](image-6.png)
+
 ## 指控4，东北师范大学信息科学与技术学院2020级本科生，2024级研究生李然向涉案人员杨熊鑫通风报信，对抗组织调查
 
 若信科仍然对抗组织调查，将会面临更多铁证。
@@ -48,3 +50,6 @@ https://huggingface.co/datasets/tannal/NENU-CS-April
 再次提醒东北师范大学信息科学与技术学院如实向组织交代问题
 
 再次提醒东北师范大学信息科学与技术学院如实向组织交代问题
+
+
+
