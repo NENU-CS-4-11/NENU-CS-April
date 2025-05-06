@@ -41,17 +41,6 @@ https://huggingface.co/datasets/tannal/NENU-CS-April
 
 若东北师范大学信息科学与技术学院仍然对抗组织调查，将会面临更多铁证。
 
-
-# 然后是我的猜测
-
-杨熊鑫从香港回来之后到腾讯亲友拜访过
-
-# NENU-CS-April
-
-东北师范大学信息科学与技术学院对抗组织调查证据
-
-这位老师是殷老师的朋友？
-
 ![alt text](image-1.png)
 
 这是武新皓？
