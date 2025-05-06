@@ -44,8 +44,6 @@ https://huggingface.co/datasets/tannal/NENU-CS-April
 
 # 然后是我的猜测
 
-杨熊鑫在2、3月份到处旅游
-
 # NENU-CS-April
 
 东北师范大学信息科学与技术学院对抗组织调查证据
